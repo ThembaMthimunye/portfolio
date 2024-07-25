@@ -33,7 +33,7 @@ const Testimonials = () => {
             <img src={AVAR2} alt="" />
           </div>
           <div>
-            <h5 className='clients_name'>Thato Lamba</h5>
+            <h5 className='clients_name'>Jewel Lamba</h5>
             <small className='client_review'>Reviews and comments</small>
             <p>
             I recently had the pleasure of working with Themba from technical support and I must say,
@@ -67,7 +67,7 @@ const Testimonials = () => {
             <img src={AVAR4} alt="" />
           </div>
           <div>
-            <h5 className='clients_name'>David Makgoka</h5>
+            <h5 className='clients_name'>Lewis Jamal</h5>
             <small className='client_review'>Reviews and comments</small>
             <p>I have had the pleasure of being a student of Themba's for the past year and I can confidently say that he
                is an exceptional teacher and trainer. His passion for teaching and training is evident in every class and
