@@ -45,11 +45,17 @@ p{
     .container.testimonials_container{
         width:80% ;
     }
+    .container.testimonials_container{
+        display: grid;
+        grid-template-columns: 1fr  ;
+     
+        
+    }
 }
 
 @media screen and (max-width:600px){
     .container.testimonials_container{
-        width:var(--container-width-sm) ;
+        width:50% ;
     }
 
     .client_review{

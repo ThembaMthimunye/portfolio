@@ -21,8 +21,11 @@
 .portfolio_item-image{
     border-radius: 1.5rem;
     overflow: hidden;
-   
     
+}
+.img2{
+    height: 37rem;
+    object-fit: cover;
 }
 
 .portfolio_item h3{
@@ -36,8 +39,8 @@
 
 @media screen and (max-width:1024px){
     .portfolio_container{
-        grid-template-columns: 1fr 1fr;
-        gap:1.2rem;
+        grid-template-columns: 1fr;
+        gap:1.1rem;
     }
 }
 

@@ -39,7 +39,7 @@ const Contacts = () => {
           <input className='text-area' type="text" name='name' placeholder='Your Full Name' required/>
           <input className='text-area' type="text" name='email' placeholder='Your Email' required />
           <textarea className='text-area' name="message" rows='7' placeholder='Your Message' required></textarea>
-          <button type='submit' className='btn btn-primary'>Send Message</button>
+          <a href="mailto:mthimunyethemba@outlook.com"><button type='submit' className='btn btn-primary' >Send Message</button></a>
         </form>
       </div>
       <br/><br/><br/><br/>
