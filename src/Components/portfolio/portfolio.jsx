@@ -21,7 +21,7 @@ const Portfolio = () => {
           </div>
           <h3>Dronoticz Website</h3>
           <div className='cta'>
-            <a href="http://github.com" className='btn'>Github</a>
+            <a href="https://github.com/ThembaMthimunye/Dronoticz-Website.git" className='btn'>Github</a>
             <a href="https://dronoticz-website.vercel.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
@@ -32,8 +32,8 @@ const Portfolio = () => {
           </div>
           <h3>Personal Portfolio</h3>
           <div className='cta'>
-            <a href="http://github.com" className='btn'>Github</a>
-            <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/ThembaMthimunye/portfolio.git" className='btn'>Github</a>
+            <a href="https://mthimunyethembaportfolio.vercel.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
